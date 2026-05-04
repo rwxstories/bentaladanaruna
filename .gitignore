@@ -1,0 +1,17 @@
+# Drafts & temp files
+*.tmp
+*.bak
+*.draft
+drafts/*/raw/
+
+# Obsidian / VS Code
+.obsidian/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Export
+*.pdf
+*.epub
