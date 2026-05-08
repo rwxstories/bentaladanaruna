@@ -1,22 +1,33 @@
 # Last Session Summary
 
 ## Date
-<!-- e.g. 2026-05-08 -->
+2026-05-08
 
 ## Story
-<!-- Which story were we working on? -->
+bentaladanaruna
 
 ## Room(s) Used
-<!-- The Architect / The Lorekeeper / The Editor / The Scribe -->
+The Scribe
 
 ## What We Did
-<!-- Brief summary of the session -->
+- First session with The Scribe on the pilot project
+- Full folder audit conducted
+- Resolved two naming inconsistencies flagged during audit
+- Saved first chapter content from uploaded draft
+- Restructured arcs/ folder for scalability
+- Committed and pushed all changes to remote
 
 ## Decisions Made
-<!-- Anything settled that affects worldbuilding or story direction -->
+- Arc 01 canonical name: **Prelude to Chaos** (not "Kepompong Digital")
+- Ch 1 status corrected to **Scene 1/3 In Progress** (was incorrectly marked Final)
+- `arcs/` folder structure: one file per arc, README as index
 
 ## Files Changed
-<!-- List of files that were created or updated this session -->
+- `README.md` — arc name updated, ch01 status corrected
+- `chapters/ch01.md` — created, Scene 1 content saved, S2/S3 placeholders added
+- `arcs/README.md` → renamed to `arcs/arc-01.md`
+- `arcs/README.md` — created as arc index
 
 ## Where We Left Off
-<!-- What's the next logical step? -->
+Chapter 1 has Scene 1 done. Scenes 2 and 3 are pending.
+Next step: write or upload Scene 2 content for ch01.
