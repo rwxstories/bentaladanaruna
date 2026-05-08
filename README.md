@@ -3,10 +3,10 @@ Pilot project for writing sequential story, logged, and well documented. A sword
 
 **Genre:** Slice-of-life RomCom / Game Fiction  
 **Setting:** Shiltz Online (Seal Online universe)  
-**Status:** 🟡 Arc 01 — Chapter 1 Finalized, Chapter 2 In Progress  
+**Status:** 🟡 Arc 01 — Chapter 1 In Progress, Chapter 2 Locked  
 **Target:** Non-komersial publish (Wattpad/blog)
 
-&gt; A swordwoman with a greatsword, a knight who throws her sword, and 3 weeks to learn that optimal isn't everything.
+> A swordwoman with a greatsword, a knight who throws her sword, and 3 weeks to learn that optimal isn't everything.
 
 ---
 
@@ -14,9 +14,9 @@ Pilot project for writing sequential story, logged, and well documented. A sword
 
 | Arc | Chapter | Status | Branch |
 |-----|---------|--------|--------|
-| 01 - Kepompong Digital | Ch 1: The Solo Swordwoman | ✅ Final | `main` |
-| 01 - Kepompong Digital | Ch 2: The Jester in Knight Armor | 📝 Draft | `draft/bima/ch002` |
-| 01 - Kepompong Digital | Ch 3: First Login Chaos | 🔒 Locked | — |
+| 01 - Prelude to Chaos | Ch 1: The Solo Swordwoman | 📝 Scene 1/3 | `draft/ch01` |
+| 01 - Prelude to Chaos | Ch 2: The Jester in Knight Armor | 🔒 Locked | — |
+| 01 - Prelude to Chaos | Ch 3: First Login Chaos | 🔒 Locked | — |
 | 02 - The Learning | Ch 4-6 | 🔒 Locked | — |
 | 03 - The Stakes | Ch 11-14 | 🔒 Locked | — |
 | 04 - Terbang | Ch 15-19 + Epilogue | 🔒 Locked | — |
@@ -38,3 +38,4 @@ git commit -m "feat(ch02): scene 1 - Jester vs Knight debate"
 
 # Push & PR
 git push origin draft/[nama]/ch[XX]
+```

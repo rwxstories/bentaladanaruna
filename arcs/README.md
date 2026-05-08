@@ -1,17 +1,13 @@
-# Arc 01: Prelude to Chaos
+# Arcs — Index
 
-**Tema:** Bima kenalin dunia Shiltz ke Rara, dan info tentang event couple.
-**Chapters:** 3 (Ch 1–3)  
-**Status:** Ch 1 Draft | Ch 2 NY | Ch 3 NY
-
----
-
-## Chapters
-
-| # | Judul | Status | Branch |
-|---|-------|--------|--------|
-| 1 | The Solo Swordwoman | Draft | `draft/ch01` |
-| 2 | The Jester in Knight Armor | Draft | - |
-| 3 | First Login Chaos | Draft | - |
+| Arc | Title | Chapters | Status |
+|-----|-------|----------|--------|
+| 01 | Prelude to Chaos | Ch 1–3 | 📝 In Progress |
+| 02 | The Learning | Ch 4–6 | 🔒 Locked |
+| 03 | The Stakes | Ch 11–14 | 🔒 Locked |
+| 04 | Terbang | Ch 15–19 + Epilogue | 🔒 Locked |
 
 ---
+
+> See individual arc files for chapter breakdowns and scene notes.
+> `arc-01.md` · `arc-02.md` · `arc-03.md` · `arc-04.md`
