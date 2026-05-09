@@ -1,0 +1,112 @@
+# Chapter 1: The Solo Swordwoman
+
+Jauh di dalam lorong tambang Clement yang lembab beraroma jamur dan debu batu, cahaya dari obor dinding hanya menerangi separuh jalan. Sisanya tenggelam dalam remang. Bentala berdiri di tengah lorong, Greatsword di punggungnya, besar dan tidak proporsional dengan figur tubuhnya. Ia memicingkan mata, berusaha menangkap setiap detil gerak di hadapannya.
+
+Dua ekor tarantula raksasa berukuran dua kali tubuhnya baru saja spawn. Kaki berbulu sebesar paha orang dewasa bergerak-gerak, mencari target.
+
+Bentala menghentak kakinya, menerjang ke tarantula di kanannya. Tanpa pikir panjang, tiga gerakan seperti ribuan kali sebelumnya.
+
+Tebasan pertama mengenai kaki depan, membuat tarantula terpaku sesaat. Kedua di area mata, menyebabkan efek blind. Ketiga, tebasan tinggi yang membelah tarantula itu menjadi dua bagian simetris. Mayat tarantula menghilang sebelum sempat jatuh, menyisakan drop item yang biasa saja. Bentala langsung bergerak ke tarantula berikutnya.
+
+Ini tahun ketiga.
+
+Tahun 2022, Bima, mahasiswa semester empat yang bosan dengan kuliah online, menginstall gim Shiltz Online di laptop hariannya. Saat pembuatan karakter, ia sudah menyiapkan nama 'Bentala' yang terdengar tampan dan kuat. Tapi tanpa sengaja, ia memilih gender wanita karena terlalu fokus membaca deskripsi job Swordwoman yang menjanjikan damage tinggi dengan trade-off defense rendah. Ia baru sadar ketika loading screen menampilkan Bentala berambut panjang, memegang Greatsword yang hampir setinggi dirinya.
+
+Karena malas mengulang dari nol, Bima melanjutkan. Tiga tahun kemudian, keputusan itu menjadi fondasi legenda kecil di Shiltz Online.
+
+Bentala dikenal bukan karena top rank atau gear termahal. Ia dikenal karena konsistensi: selalu solo, selalu efisien. Tidak pernah terlihat di kota lebih dari lima menit kecuali untuk repair Greatswordnya dan menjual loot. Tidak pernah menjawab chat yang tidak penting. Tidak pernah meminta bantuan.
+
+Job Swordwoman memang mendukung gaya bermain sendiri. Damage tinggi, mobilitas cukup, tidak bergantung pada healer. Di Shiltz, kebanyakan pemain perempuan memilih Cleric atau Mage, menyembuhkan dari belakang atau menyerang dari kejauhan. Bentala berdiri di garis depan, sendirian.
+
+Beberapa karakter pria mendekati Bentala dengan berbagai cara. Mengajak kenalan di whisper, mengirim friend request dengan pesan panjang, atau sekadar memberikan potion berkualitas tinggi secara cuma-cuma di town. Bima, di balik layar monitornya, selalu menerima dengan ucapan terima kasih singkat. Kadang tertawa geli sendiri. Tidak pernah mengiyakan ajakan party, tidak pernah membalas lebih dari satu kalimat.
+
+Notifikasi guild chat berkedip di pojok layar. Bentala menyelesaikan tarantula kedua: hit, hit, hit, loot. Setelah yakin tidak ada tarantula baru yang spawn, ia baru membuka tab chat guild.
+
+Verdy: "EVENT COUPLE TAHUN INI GILA. REWARDNYA MOUNT EXCLUSIVE!!"
+
+Bentala berhenti bergerak. Jari Bima melayang di atas keyboard, tidak menekan apa pun.
+
+Ponsel di sebelah laptop Bima bergetar beberapa kali. Notifikasi pesan dari Rara, sesaat mengalihkan fokusnya dari Bentala yang sedang bersiap kembali ke Kota Madelin.
+
+"Lagi main gim? Bukain pintu dong." Pesan singkat dari Rara, disusul notifikasi telepon masuk yang membuat ponsel Bima bergetar lebih lama. Bima menjawab panggilan telepon Rara dengan loudspeaker, belum sempat Bima mengucap 'halo', suara Rara sudah menggema kencang.
+
+"Buuukaaaiiin!!" Teriak Rara dari ujung telepon.
+
+Bima langsung melompat dari kursinya dan bergegas menuju pintu kosnya, meninggalkan Bentala yang masih berdiri sendirian di tengah tambang Clement.
+
+Rara berdiri di koridor, rambut dikuncir sederhana karena habis kehujanan, tangan kanannya menggenggam kantong plastik transparan yang mengeluarkan aroma wangi manis. Wajahnya sengaja dibuat-buat seperti sedang ngambek ketika Bima membuka pintu kosnya.
+
+"Lama banget?! Aku bosen nungguinnya."
+
+Dia masuk tanpa menunggu undangan lebih lanjut. Meja di sudut kamar sudah berisi piring bekas mi instan dan mug kopi dingin. Rara meletakkan martabak di satu-satunya celah kosong, matanya langsung tertuju ke monitor yang masih menyala, Bentala dalam posisi idle, greatsword bersandar di bahu, armor hitamnya practical tanpa ornamen berlebihan tapi tetap terlihat keren dalam cahaya town yang hangat.
+
+"Ini karaktermu? Cewek?"
+
+"Iya." Bima mengambil piring bersih dari rak. "Salah pilih gender waktu itu. Males bikin baru dari awal, jadi yaudah."
+
+Rara mendekat, meneliti detail karakter di layar. "Dia cantik. Pedangnya gede banget."
+
+"Aku yang milih semua tampilannya," kata Bima. "Awalnya sih nggak sengaja. Tapi kalau udah terlanjur cewek, ya harus cantik sekalian."
+
+Mereka makan dalam hening yang nyaman. Bima mulai bercerita.
+
+"Drop rate-nya parah hari ini," kata Bima sambil mengunyah. "Dua jam di tambang. Dapet tiga biji ore sama satu potion yang bisa aku beli di toko."
+
+"Berarti kamu kalah sama laba-laba?" tanya Rara.
+
+"Bukan kalah. Drop rate-nya aja yang pelit."
+
+Rara mengangguk pelan, seperti paham. Matanya masih tertuju ke layar, Bentala tidak bergerak, greatsword tetap bersandar di bahu.
+
+PING!
+
+Notifikasi whisper in-game menghentikan sejenak pembicaraan Bima dan Rara. Bima mendekat ke laptopnya, membuka tab whisper yang ditandai bulatan merah kecil, tanda kalau ada seseorang yang mengirimkan chat pribadi.
+
+Verdy: "Bim, lo belom ada partner buat event couple kan?"
+Verdy: "Sama gue aja yuk? Gue yang TB, lo yang damage."
+Verdy: "Gue ngebet banget sama hadiah Mount-nya!!"
+
+Tiga pesan beruntun dari Verdy, karakter milik Ferdi, teman kuliah sekaligus teman satu guild Bima, satu-satunya yang tahu rahasia kalau Bentala dipiloti oleh seorang cowok. Bima menggeser Rara dan duduk dalam satu kursi yang sama, memaksa Rara untuk berbagi celah sempit di kursi. Jemari Bima dengan cepat mengetik pesan balasan.
+
+Bentala: "Gas! Gue belum ada partner nih!"
+Bentala: "Tenang, gue yang carry nanti."
+
+Melihat pacarnya yang bersemangat, Rara mengalah dan beranjak dari kursi, berpindah ke kasur di belakang meja komputer Bima dan merebahkan dirinya di sana sambil mengeluarkan ponsel dari tas kecilnya. Sesekali ia melirik Bima yang masih asik dengan laptopnya.
+
+"Event apa sih? Kayanya seru banget." Ujar Rara, tapi matanya tidak ke ponselnya, ke layar monitor. Bentala masih berdiri di depan NPC toko, menunggu input yang belum datang.
+
+"Event couple, di gim ini ada sistem couple kayak pacaran gitu. Nah pasangan-pasangan ini diadu secara turnamen. Reward-nya mount terbang sama title." Bima membetulkan posisi duduknya.
+
+Rara tidak langsung merespons. Dia menatap Bentala di layar sebentar, lalu kembali ke ponselnya.
+
+"Couple? Kamu couple-an sama cowok?"
+
+"Cuma buat event ini aja kok. Couple-annya sama temen kampus juga."
+
+Rara berhenti menggulir layar. Hening sejenak mengisi ruangan.
+
+"Kenapa... nggak sama aku aja?"
+
+Bima memutar kursinya menghadap Rara, menyandarkan dagu di atas punggung kursi, sejenak berusaha memahami apa yang barusan pacarnya katakan.
+
+"Tapi kan... kamu nggak main."
+
+"Aku bisa belajar."
+
+"Event-nya tiga minggu lagi, Ra."
+
+"Cukup kan?"
+
+Bima tidak langsung menjawab. Dia memperhatikan Rara, ekspresi serius yang dia kenal baik, tapi ada sesuatu yang playful di sudut mata kanannya.
+
+"Kamu serius?"
+
+Rara duduk, menarik kaki ke dada. "Tiga tahun kamu cerita. Baru sekarang aku lihat langsung." Dia mengangguk ke arah layar. "Aku penasaran. Dan..." ia berhenti sebentar, "aku nggak mau kamu couple sama cowok lain. Meski cuma in-game."
+
+Bima tertawa kecil. "Itu yang bikin kamu mau ikut? Cemburu?"
+
+Rara mengangkat bahu, satu sudut bibirnya naik. "Iya. Terus?"
+
+"Ya udah." Bima mengangkat kedua tangan, menyerah. "Tapi aku janji, kamu bakal kewalahan. Game ini nggak friendly buat newbie."
+
+Rara melebarkan senyumnya, cerah dan penuh tantangan. "Aku janji, kamu bakal kaget."
