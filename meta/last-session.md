@@ -1,33 +1,38 @@
 # Last Session Summary
 
 ## Date
-2026-05-08
+2026-05-09
 
 ## Story
 bentaladanaruna
 
 ## Room(s) Used
-The Scribe
+The Scribe, The Editor (addendum handoff)
 
 ## What We Did
-- First session with The Scribe on the pilot project
-- Full folder audit conducted
-- Resolved two naming inconsistencies flagged during audit
-- Saved first chapter content from uploaded draft
-- Restructured arcs/ folder for scalability
-- Committed and pushed all changes to remote
+- Received and documented handoff from The Editor (Session 2026-05-09)
+- Created characters/ferdi.md
+- Updated characters/rara.md with motivation detail and character voice
+- Updated worldbuilding/worldbuilding.md with full Event Couple mechanic
+- Added Project Workflow section to meta/writing-style-profile.md
+- Moved drafts/ch01.md from chapters/ to drafts/ (chapters/ reserved for finals)
+- Updated README.md and arcs/arc-01.md to reflect Ch 1 Final status
+- Documented file naming convention for chapters/ (kebab-case, title only, no ch prefix)
 
 ## Decisions Made
-- Arc 01 canonical name: **Prelude to Chaos** (not "Kepompong Digital")
-- Ch 1 status corrected to **Scene 1/3 In Progress** (was incorrectly marked Final)
-- `arcs/` folder structure: one file per arc, README as index
+- `drafts/` for WIP, `chapters/` for finals only — enforced going forward
+- Finalized chapter filenames: kebab-case title, no chapter number prefix (e.g. `the-solo-swordwoman.md`)
+- `Last Updated` field removed from chapter files — redundant with Git history
+- Em dashes forbidden across all projects, all files, no exceptions
 
 ## Files Changed
-- `README.md` — arc name updated, ch01 status corrected
-- `chapters/ch01.md` — created, Scene 1 content saved, S2/S3 placeholders added
-- `arcs/README.md` → renamed to `arcs/arc-01.md`
-- `arcs/README.md` — created as arc index
+- `characters/ferdi.md` — created
+- `characters/rara.md` — motivation and character voice updated
+- `worldbuilding/worldbuilding.md` — Event Couple expanded
+- `meta/writing-style-profile.md` — Project Workflow section added
+- `README.md` — Ch 1 status updated to Final
+- `arcs/arc-01.md` — Ch 1 status updated to Final
 
 ## Where We Left Off
-Chapter 1 has Scene 1 done. Scenes 2 and 3 are pending.
-Next step: write or upload Scene 2 content for ch01.
+Ch 1 is final and pushed. Ch 2 is next — still locked, no draft yet.
+File naming convention addendum still needs saving to writing-style-profile.md (MCP was down during that handoff).
