@@ -20,6 +20,11 @@ Opens in medias res, pulls back for context, returns to present. Not afraid to s
 ## Formatting Rules
 - **Em dashes are forbidden across all projects.** No exceptions. Replace with a comma, period, colon, or restructure the sentence entirely.
 
+## Project Workflow
+- `drafts/` is for WIP chapters. The Editor writes all chapter work here during writing and review sessions.
+- `chapters/` is for fully approved, cleaned-up finals only. No WIP files should live here.
+- When a chapter is finalized: copy from `drafts/`, strip scene markers and metadata, rename to full title format (e.g. `chapter-01-the-solo-swordwoman.md`), then move to `chapters/`. The drafts file stays untouched.
+
 ## Strengths
 - Economy: nothing is decorative, every sentence earns its place
 - Combat sequences: clean, satisfying, not flashy
@@ -44,3 +49,6 @@ Opens in medias res, pulls back for context, returns to present. Not afraid to s
 - **Snapshot based on:** Chapter 1, Scene 1 — *"Jauh di dalam lorong tambang Clement..."*
 - **Snapshot confirmed by writer:** 2026-05-09
 - **Last reviewed:** Chapter 1, Scene 2 — *"Ponsel di sebelah laptop Bima bergetar..."*
+
+---
+*Last updated: 2026-05-09*
