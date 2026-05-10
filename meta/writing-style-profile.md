@@ -27,11 +27,12 @@ Opens in medias res, pulls back for context, returns to present. Not afraid to s
 - `Last Updated` field is not used in chapter files — Git history serves that purpose.
 
 ### File Naming Convention — chapters/
-- Filename = chapter title, kebab-case, no chapter number prefix
-- ✅ `the-solo-swordwoman.md`
+- Filename = number prefix + chapter title, kebab-case, no "chapter" word
+- ✅ `01-the-solo-swordwoman.md`
 - ❌ `ch01.md`
+- ❌ `the-solo-swordwoman.md`
 - ❌ `chapter-01-the-solo-swordwoman.md`
-- Convention confirmed during Ch 1 finalization (2026-05-09)
+- Convention confirmed: 2026-05-09
 
 ## Strengths
 - Economy: nothing is decorative, every sentence earns its place
