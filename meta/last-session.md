@@ -17,7 +17,7 @@ The Writer-Editor (Writing Mode + Review Mode)
 - Saved approved Scene 1 draft to `drafts/ch02-scene01-draft.md`
 
 ## Decisions Made
-- Ferdi is not cancellled — stalled with a vague excuse ("ada urusan mendadak")
+- Ferdi is not cancelled — stalled with a vague excuse ("ada urusan mendadak")
 - Ferdi's reply: "Oh. Oke. Aman." — cool-guy exterior, files the situation away. Not cold, deliberately calm.
 - Ferdi is aware losing Bentala as couple partner significantly reduces his event winning chance — seeds the grand battle with Rara later
 - Rara's "Waduh" is ambiguous — left open whether Rara heard it or not
@@ -32,9 +32,8 @@ The Writer-Editor (Writing Mode + Review Mode)
 - `drafts/ch02-scene01-draft.md` — created, reviewed, approved
 
 ## Where We Left Off
-Scene 1 approved and ready to commit. Scene 2 is next — Rara arrives at Bima's kos with her laptop.
+Scene 1 approved and committed. Scene 2 is next — Rara arrives at Bima's kos with her laptop.
 
 ## Pending
 - Scene 2 through Scene 6 of Chapter 2 still to be written
 - Ferdi's grand battle with Rara — banked for later in the arc
-- File naming convention addendum still needs saving to writing-style-profile.md (carried over from last session)
