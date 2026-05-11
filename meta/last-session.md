@@ -1,38 +1,40 @@
 # Last Session Summary
 
 ## Date
-2026-05-09
+2026-05-11
 
 ## Story
 bentaladanaruna
 
 ## Room(s) Used
-The Scribe, The Editor (addendum handoff)
+The Writer-Editor (Writing Mode + Review Mode)
 
 ## What We Did
-- Received and documented handoff from The Editor (Session 2026-05-09)
-- Created characters/ferdi.md
-- Updated characters/rara.md with motivation detail and character voice
-- Updated worldbuilding/worldbuilding.md with full Event Couple mechanic
-- Added Project Workflow section to meta/writing-style-profile.md
-- Moved drafts/ch01.md from chapters/ to drafts/ (chapters/ reserved for finals)
-- Updated README.md and arcs/arc-01.md to reflect Ch 1 Final status
-- Documented file naming convention for chapters/ (kebab-case, title only, no ch prefix)
+- Built and locked Chapter 2 outline — *The Jester in Knight Armor*
+- Saved outline to `drafts/ch02-outline.md`
+- Drafted Chapter 2 Scene 1 — *The Stall*
+- Reviewed Scene 1 against writing style profile, applied all fixes (v2)
+- Saved approved Scene 1 draft to `drafts/ch02-scene01-draft.md`
 
 ## Decisions Made
-- `drafts/` for WIP, `chapters/` for finals only — enforced going forward
-- Finalized chapter filenames: kebab-case title, no chapter number prefix (e.g. `the-solo-swordwoman.md`)
-- `Last Updated` field removed from chapter files — redundant with Git history
-- Em dashes forbidden across all projects, all files, no exceptions
+- Ferdi is not cancellled — stalled with a vague excuse ("ada urusan mendadak")
+- Ferdi's reply: "Oh. Oke. Aman." — cool-guy exterior, files the situation away. Not cold, deliberately calm.
+- Ferdi is aware losing Bentala as couple partner significantly reduces his event winning chance — seeds the grand battle with Rara later
+- Rara's "Waduh" is ambiguous — left open whether Rara heard it or not
+- Rara figures out the name Aruna the night before returning — never shown on page, lands cold
+- Aruna: male gender, deliberate mirror of Bentala (strong male name on female character vs soft female name on male character)
+- Ch2 timeline: Scene 1 same night as Ch1. Scenes 2–6 happen 1–2 days later when Rara returns with her own laptop
+- Rara's laptop: nearly par with a gaming laptop — seeds the "mendingan aku aja yang pake" joke from Bima
+- Ferdi appears via WhatsApp only in Ch2, no physical appearance
 
 ## Files Changed
-- `characters/ferdi.md` — created
-- `characters/rara.md` — motivation and character voice updated
-- `worldbuilding/worldbuilding.md` — Event Couple expanded
-- `meta/writing-style-profile.md` — Project Workflow section added
-- `README.md` — Ch 1 status updated to Final
-- `arcs/arc-01.md` — Ch 1 status updated to Final
+- `drafts/ch02-outline.md` — created
+- `drafts/ch02-scene01-draft.md` — created, reviewed, approved
 
 ## Where We Left Off
-Ch 1 is final and pushed. Ch 2 is next — still locked, no draft yet.
-File naming convention addendum still needs saving to writing-style-profile.md (MCP was down during that handoff).
+Scene 1 approved and ready to commit. Scene 2 is next — Rara arrives at Bima's kos with her laptop.
+
+## Pending
+- Scene 2 through Scene 6 of Chapter 2 still to be written
+- Ferdi's grand battle with Rara — banked for later in the arc
+- File naming convention addendum still needs saving to writing-style-profile.md (carried over from last session)
