@@ -3,7 +3,7 @@ Pilot project for writing sequential story, logged, and well documented. A sword
 
 **Genre:** Slice-of-life RomCom / Game Fiction  
 **Setting:** Shiltz Online (Seal Online universe)  
-**Status:** 🟡 Arc 01 — Chapter 1 Final, Chapter 2 In Progress  
+**Status:** 🟡 Arc 01 — Chapter 1 Final, Chapter 2 Final  
 **Target:** Non-komersial publish (Wattpad/blog)
 
 > A swordwoman with a greatsword, a knight who throws her sword, and 3 weeks to learn that optimal isn't everything.
@@ -15,7 +15,7 @@ Pilot project for writing sequential story, logged, and well documented. A sword
 | Arc | Chapter | Status | Branch |
 |-----|---------|--------|--------|
 | 01 - Prelude to Chaos | Ch 1: The Solo Swordwoman | ✅ Final | — |
-| 01 - Prelude to Chaos | Ch 2: The Jester in Knight Armor | 🔒 Locked | — |
+| 01 - Prelude to Chaos | Ch 2: A Knight Named Aruna | ✅ Final | — |
 | 01 - Prelude to Chaos | Ch 3: First Login Chaos | 🔒 Locked | — |
 | 02 - The Learning | Ch 4-6 | 🔒 Locked | — |
 | 03 - The Stakes | Ch 11-14 | 🔒 Locked | — |
