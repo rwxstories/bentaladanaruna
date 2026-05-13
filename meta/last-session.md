@@ -1,7 +1,7 @@
 # Last Session Summary
 
 ## Date
-2026-05-11
+2026-05-12
 
 ## Story
 bentaladanaruna
@@ -10,30 +10,43 @@ bentaladanaruna
 The Writer-Editor (Writing Mode + Review Mode)
 
 ## What We Did
-- Built and locked Chapter 2 outline — *The Jester in Knight Armor*
-- Saved outline to `drafts/ch02-outline.md`
-- Drafted Chapter 2 Scene 1 — *The Stall*
-- Reviewed Scene 1 against writing style profile, applied all fixes (v2)
-- Saved approved Scene 1 draft to `drafts/ch02-scene01-draft.md`
+- Cleared resolved pending item from last-session log (file naming convention — already documented)
+- Wrote, reviewed, and approved all 6 scenes of Chapter 2
+- Combined all scenes into final chapter file
+- Renamed chapter title from "The Jester in Knight Armor" to "A Knight Named Aruna"
+
+## Scenes Completed
+- Scene 1 — The Stall
+- Scene 2 — The Laptop
+- Scene 3 — The Briefing
+- Scene 4 — Character Creation + The Debate
+- Scene 5 — The Name
+- Scene 6 — First Login
 
 ## Decisions Made
-- Ferdi is not cancelled — stalled with a vague excuse ("ada urusan mendadak")
-- Ferdi's reply: "Oh. Oke. Aman." — cool-guy exterior, files the situation away. Not cold, deliberately calm.
-- Ferdi is aware losing Bentala as couple partner significantly reduces his event winning chance — seeds the grand battle with Rara later
-- Rara's "Waduh" is ambiguous — left open whether Rara heard it or not
-- Rara figures out the name Aruna the night before returning — never shown on page, lands cold
-- Aruna: male gender, deliberate mirror of Bentala (strong male name on female character vs soft female name on male character)
-- Ch2 timeline: Scene 1 same night as Ch1. Scenes 2–6 happen 1–2 days later when Rara returns with her own laptop
-- Rara's laptop: nearly par with a gaming laptop — seeds the "mendingan aku aja yang pake" joke from Bima
-- Ferdi appears via WhatsApp only in Ch2, no physical appearance
+- Framedesk confirmed as Rara's laptop brand (fiktif). Specs: Intel Core Ultra 7, GPU RTX, under 1.5kg. No model name yet — Bima recognizes brand name only.
+- Jester vs Knight debate: Rara picks Knight not because of Bima's argument, but because of the sword preview. Bima thinks he won. He did not.
+- Beat 6 Scene 4: Rara pauses on the sword specifically — behavioral foreshadow for Aruna's arc. No signal to reader. Kept low until the sword-throw reveal in later chapters.
+- Scene 5 naming logic: Bentala = strong male name on female character by accident. Aruna = soft female name on male character by design. Deliberate mirror.
+- Bima's unasked question ("kamu kepikiran ini dari kapan?") — shown through Bima swallowing the question, not through narration. Reader catches the gap from Bima's reaction.
+- Chapter title changed: "The Jester in Knight Armor" → "A Knight Named Aruna" — original title telegraphed the surprise of Aruna's sword-throw arc too early.
+- Couple preview (Bentala + Aruna berdampingan) banked for later — will land when they first appear together in-scene.
 
 ## Files Changed
-- `drafts/ch02-outline.md` — created
-- `drafts/ch02-scene01-draft.md` — created, reviewed, approved
+- `drafts/ch02-scene01-draft.md` — approved (carried from session 1)
+- `drafts/ch02-scene02-draft.md` — approved
+- `drafts/ch02-scene03-draft.md` — approved
+- `drafts/ch02-scene04-draft.md` — approved
+- `drafts/ch02-scene05-draft.md` — approved
+- `drafts/ch02-scene06-draft.md` — approved
+- `chapters/02-a-knight-named-aruna.md` — created, all scenes combined and tidied
+- `meta/last-session.md` — updated
 
 ## Where We Left Off
-Scene 1 approved and committed. Scene 2 is next — Rara arrives at Bima's kos with her laptop.
+Chapter 2 fully complete and committed. Ready for Chapter 3 — First Login Chaos.
 
 ## Pending
-- Scene 2 through Scene 6 of Chapter 2 still to be written
+- Chapter 3 outline and writing — next session
 - Ferdi's grand battle with Rara — banked for later in the arc
+- Couple preview (Bentala + Aruna on screen together) — banked for the right moment
+- Aruna sword-throw reveal — banked for later chapters, foreshadow seed planted in Scene 4
