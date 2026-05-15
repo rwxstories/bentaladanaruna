@@ -24,11 +24,11 @@ Tournament tahunan server-wide.
 | Piya | Piya | TBD |
 | B1 / Zone B1 | Sector B-1 | TBD |
 | Lunar | Kota Madelin | TBD |
-| Pine Forest | Hutan Pine | TBD |
+| Pine Forest | Hutan Pine | Hutan Silon ✅ |
 
 ## Notes
 - Convert nama asli → samaran setelah draft matang
 - Class names generic: Swordwoman, Knight, Jester (safe)
 
 ---
-*Last updated: 2026-05-09*
+*Last updated: 2026-05-15*

@@ -1,52 +1,43 @@
 # Last Session Summary
 
 ## Date
-2026-05-12
+2026-05-15
 
 ## Story
 bentaladanaruna
 
 ## Room(s) Used
-The Writer-Editor (Writing Mode + Review Mode)
+The Architect (Worldbuilding Mode)
 
 ## What We Did
-- Cleared resolved pending item from last-session log (file naming convention — already documented)
-- Wrote, reviewed, and approved all 6 scenes of Chapter 2
-- Combined all scenes into final chapter file
-- Renamed chapter title from "The Jester in Knight Armor" to "A Knight Named Aruna"
-
-## Scenes Completed
-- Scene 1 — The Stall
-- Scene 2 — The Laptop
-- Scene 3 — The Briefing
-- Scene 4 — Character Creation + The Debate
-- Scene 5 — The Name
-- Scene 6 — First Login
+- Built out Hutan Silon (formerly Hutan Pine) as a full location entry for Ch03
+- Finalized and locked the name: **Hutan Silon** (synced with Seal Online source, fan-work, name kept as-is)
+- Described all three active mobs with visual references
+- Updated rename table in worldbuilding.md: Pine Forest → Hutan Pine → Hutan Silon ✅
 
 ## Decisions Made
-- Framedesk confirmed as Rara's laptop brand (fiktif). Specs: Intel Core Ultra 7, GPU RTX, under 1.5kg. No model name yet — Bima recognizes brand name only.
-- Jester vs Knight debate: Rara picks Knight not because of Bima's argument, but because of the sword preview. Bima thinks he won. He did not.
-- Beat 6 Scene 4: Rara pauses on the sword specifically — behavioral foreshadow for Aruna's arc. No signal to reader. Kept low until the sword-throw reveal in later chapters.
-- Scene 5 naming logic: Bentala = strong male name on female character by accident. Aruna = soft female name on male character by design. Deliberate mirror.
-- Bima's unasked question ("kamu kepikiran ini dari kapan?") — shown through Bima swallowing the question, not through narration. Reader catches the gap from Bima's reaction.
-- Chapter title changed: "The Jester in Knight Armor" → "A Knight Named Aruna" — original title telegraphed the surprise of Aruna's sword-throw arc too early.
-- Couple preview (Bentala + Aruna berdampingan) banked for later — will land when they first appear together in-scene.
+- **Hutan Silon** = early game zone, bright, open canopy, natural paths, scattered clearings
+- Kontras langsung dengan Tambang Clement (gelap, sempit, bawah tanah)
+- From a distance: looks like a crowd of fat chicks wandering between trees
+- **Piya** — perfectly round yellow orb with a flat, slightly smug face. Aggressive but weak. The unsettling thing about it is how completely unthreatening it looks
+- **Moo Moo** — a pink radish with green leaves on its head. Has nothing to do with cows. Name is fully misleading. Slow-moving ground mob
+- **Treasure Chest** — looks like a regular loot chest until approached, then springs out two coiled arms with boxing gloves and **punches the player**. No aggro animation warning. First hit lands before the player can react if they've never seen it before
+- Mob list trimmed for story use: only Piya, Moo Moo, Treasure Chest are active in the narrative. Full original list archived in locations.md under "tidak dipakai"
+- Aruna's playstyle chaos confirmed as character-driven, not environment-driven — Hutan Silon is working perfectly as a tutorial zone; Rara is the variable
 
 ## Files Changed
-- `drafts/ch02-scene01-draft.md` — approved (carried from session 1)
-- `drafts/ch02-scene02-draft.md` — approved
-- `drafts/ch02-scene03-draft.md` — approved
-- `drafts/ch02-scene04-draft.md` — approved
-- `drafts/ch02-scene05-draft.md` — approved
-- `drafts/ch02-scene06-draft.md` — approved
-- `chapters/02-a-knight-named-aruna.md` — created, all scenes combined and tidied
-- `meta/last-session.md` — updated
+- `worldbuilding/locations.md` — Hutan Pine entry fully replaced with Hutan Silon
+- `worldbuilding/worldbuilding.md` — rename table updated, Hutan Silon marked ✅
+
+## Story Beats Flagged (for The Scribe / Editor — NOT in worldbuilding files)
+- **Treasure Chest sucker punch** — Aruna gets hit before he can block because Rara has never seen this mob before and doesn't know it punches. No warning animation. First hit lands clean. Good chaos beat for Ch03.
+- Hutan Silon's forgiving design is the *foil* — the zone is built to teach, Rara refuses to be taught the normal way. The setting works against her arc by being too safe
 
 ## Where We Left Off
-Chapter 2 fully complete and committed. Ready for Chapter 3 — First Login Chaos.
+Hutan Silon fully documented. Ready for Ch03 writing session.
 
 ## Pending
-- Chapter 3 outline and writing — next session
+- Chapter 3 outline and writing — next session with The Scribe / Editor
 - Ferdi's grand battle with Rara — banked for later in the arc
 - Couple preview (Bentala + Aruna on screen together) — banked for the right moment
-- Aruna sword-throw reveal — banked for later chapters, foreshadow seed planted in Scene 4
+- Aruna sword-throw reveal — banked for later chapters, foreshadow seed planted in Ch02 Scene 4
