@@ -37,6 +37,21 @@ A swordwoman, a jester-knight, and 3 weeks to learn love (and throwing swords).
 
 ---
 
+## Writing System
+
+This project uses a four-room writing workflow:
+
+| Room | Role |
+|------|------|
+| **The Architect** | Worldbuilding, story structure, and arc planning |
+| **The Lorekeeper** | Lore consistency guardian — flags contradictions during writing |
+| **The Editor** | Scene writing, prose editing, and chapter drafts |
+| **The Scribe** | Documentation, file organization, and session logging |
+
+Each room hands off to the next via `meta/last-session.md`.
+
+---
+
 ## Quick Start
 
 ```bash
